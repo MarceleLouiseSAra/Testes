@@ -7,7 +7,7 @@ contribui para a criação de um código enxuto, modularizado (organizado em sub
 O presente projeto se trata do desenvolvimento de jogos de tabuleiro, cuja interface com a qual o usuário interage é o próprio terminal de comando. Este trabalho 
 foi realizado em grupo; neste repositório, encontra-se um ensaio do que viria a ser o [código final](https://github.com/jufernandino/Jogos-de-Tabuleiro).
 
-Em particular, chamo atenção para o uso de um arquivo *Makefile* para otimizar o processo de compilação; a sua utilização garante que arquivos que não sofreram alterações sejam recompilados desnecessariamente.
+Em particular, chamo atenção para o uso de um arquivo *Makefile* para otimizar o processo de compilação; a sua utilização garante que arquivos que não sofreram alterações não sejam recompilados desnecessariamente.
 
 ## Para executar,
 
